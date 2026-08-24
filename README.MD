@@ -2,7 +2,7 @@ Solutions (TypeScript)
 
 
 ✅ 0016-longest-valid-parentheses
-✅ 0017
+✅ 0017-count-and-say
 ✅ 0018
 ✅ 0019
 
