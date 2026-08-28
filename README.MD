@@ -6,5 +6,8 @@ Solutions (TypeScript)
 -✅ 0018-valid-sudoku.ts
 -✅ 0019-remove-element.ts
 -✅ 0020-3sum.ts
-
+-✅
+-✅
+-✅
+-✅
 #npx tsx solutions/0016-longest-valid-parentheses.ts 
