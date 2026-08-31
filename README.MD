@@ -7,7 +7,7 @@ Solutions (TypeScript)
 -✅ 0020-3sum.ts
 -✅ 0021-first-missing-positive.ts
 -✅ 0022-pow-x-n.ts
--✅
+-✅ 0023-string-to-integer-atoi.ts
 -✅
 
 
