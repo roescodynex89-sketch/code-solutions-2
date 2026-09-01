@@ -9,7 +9,26 @@ Solutions (TypeScript)
 -✅ 0022-pow-x-n.ts
 -✅ 0023-string-to-integer-atoi.ts
 -✅
-
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
+-✅
 
 
 #npx tsx solutions/
