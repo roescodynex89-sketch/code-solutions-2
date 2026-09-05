@@ -10,7 +10,7 @@ Solutions (TypeScript)
 -✅ 0023-string-to-integer-atoi.ts
 -✅ 0024-length-of-last-word.ts
 -✅ 0025-longest-palindromic-substring.ts
--✅
+-✅ 0026-generate-parentheses.ts
 -✅
 -✅
 -✅
