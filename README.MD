@@ -11,11 +11,12 @@ Solutions (TypeScript)
 -✅ 0024-length-of-last-word.ts
 -✅ 0025-longest-palindromic-substring.ts
 -✅ 0026-generate-parentheses.ts
+-✅ 0027-spiral-matrix.ts
 -✅
 -✅
 -✅
--
-
-
-
+-✅
+-✅
+-✅
+-✅
 #npx tsx solutions/
