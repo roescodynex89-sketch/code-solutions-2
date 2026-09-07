@@ -12,7 +12,7 @@ Solutions (TypeScript)
 -✅ 0025-longest-palindromic-substring.ts
 -✅ 0026-generate-parentheses.ts
 -✅ 0027-spiral-matrix.ts
--✅
+-✅ 0028-multiply-strings.ts
 -✅
 -✅
 -✅
